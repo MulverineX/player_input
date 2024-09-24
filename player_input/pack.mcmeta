@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 52,
+        "description": "Player input polling centralizing library to provide efficient events."
+    }
+}
